@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning COmputer Science Engineering
 - 💞️ I’m looking to collaborate on real time collaborative project
 - 📫 How to reach me neelpandeyofficial@gmail.com
+- 🧑‍💻 LinkedIn  www.linkedin.com/in/neel-pandey-4b7469324
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My Curiosity might make you hate me 
 
