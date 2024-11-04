@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science and Electronics
 - 🌱 I’m currently learning COmputer Science Engineering
 - 💞️ I’m looking to collaborate on real time collaborative project
-- 📫 How to reach me neelpandey@official@gmail.com
+- 📫 How to reach me neelpandeyofficial@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My Curiosity might make you hate me 
 
