@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @N-PCs
+- 👋 Hi, I’m Neel Pandey @N-PCs
 - 👀 I’m interested in Computer Science and Electronics
 - 🌱 I’m currently learning Computer Science Engineering
 - 💞️ I’m looking to collaborate in real time collaborative project
