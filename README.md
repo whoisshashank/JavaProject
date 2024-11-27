@@ -7,8 +7,15 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Always Curious!   :)
 
- 
-![Postman - Postman API Fundamentals Student Expert - 2024-10-28 (1)](https://github.com/user-attachments/assets/9d25ab71-c961-4727-9210-140d16e90ec0)
+<div style='display:flex; align-items:center; gap: 10px;' align='left'>
+  <img src="https://github.com/SamXop123/SamXop123/blob/main/Postman%20API%20Fundamentals%20Student%20Expert.png" width="100px" height="100px" />
+   <img src="https://github.com/SamXop123/SamXop123/blob/main/5.png" width="100px" height="100px" />
+  <img src="https://github.com/SamXop123/SamXop123/blob/main/1.png" width="100px" height="100px" />
+  <img src="https://github.com/SamXop123/SamXop123/blob/main/2.png" width="100px" height="100px" />
+  <img src="https://github.com/SamXop123/SamXop123/blob/main/3.png" width="100px" height="100px" />
+  <img src="https://github.com/SamXop123/SamXop123/blob/main/4.png" width="100px" height="100px" />
+  </div>
+
 <h1 align="center">Hi 👋, I'm Neel Pandey @N-PCs</h1>
 <h3 align="center">A passionate coder , looking to expand my domain of interest.</h3>
 
