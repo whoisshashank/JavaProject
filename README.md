@@ -21,9 +21,6 @@
 <h1 align="center">Hi 👋, I'm Neel Pandey @N-PCs</h1>
 <h3 align="center">A passionate coder , looking to expand my domain of interest.</h3>
 
-
-<img align="center" alt ="Coding" width="800" src="https://github.com/N-PCs/Source/blob/main/Code%20Coding%20GIF%20-%20Code%20Coding%20Programming%20-%20Discover%20%26%20Share%20GIFs.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-pcs&label=Profile%20views&color=0e75b6&style=flat" alt="n-pcs" /> </p>
 
 ## 🏆 GitHub Trophies
@@ -57,9 +54,9 @@
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-<img align="center" alt ="Coding" width="800" src="https://github.com/N-PCs/Source/blob/main/%E1%B4%8D%E1%B4%80%C9%B4%E1%B4%85%CA%8F%20%CA%99%E1%B4%9C%C9%B4%C9%B4%CA%8F.gif">
 
 
 ### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
 
+<img align="center" alt ="Coding" width="800" src="https://github.com/N-PCs/Source/blob/main/%E1%B4%8D%E1%B4%80%C9%B4%E1%B4%85%CA%8F%20%CA%99%E1%B4%9C%C9%B4%C9%B4%CA%8F.gif">
