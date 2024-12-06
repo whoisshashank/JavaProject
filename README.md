@@ -1,3 +1,7 @@
+<img align="center" alt ="Coding" width="800" src="https://github.com/N-PCs/Resources/blob/main/helloWorld.gif">
+
+
+
 - 👋 Hi, I’m Neel Pandey @N-PCs
 - 👀 I’m interested in Computer Science and Electronics
 - 🌱 I’m currently learning Computer Science Engineering
