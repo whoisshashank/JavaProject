@@ -1,5 +1,5 @@
 
-<img align="right" alt ="Coding" width="600" src="https://github.com/N-PCs/Resources/blob/main/helloWorld.gif">
+<img align="right" alt ="Coding" width="400px" src="https://github.com/N-PCs/Resources/blob/main/helloWorld.gif">
 
 <br>
 
@@ -12,6 +12,8 @@
 - 🧑‍💻 LinkedIn  www.linkedin.com/in/neel-pandey-4b7469324
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Always Curious!   :)
+
+<br><br>
 
 
 
