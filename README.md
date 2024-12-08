@@ -1,5 +1,7 @@
-<img align="center" alt ="Coding" width="800" src="https://github.com/N-PCs/Resources/blob/main/helloWorld.gif">
 
+<img align="right" alt ="Coding" width="600" src="https://github.com/N-PCs/Resources/blob/main/helloWorld.gif">
+
+<br>
 
 
 - 👋 Hi, I’m Neel Pandey @N-PCs
