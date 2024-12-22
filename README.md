@@ -20,7 +20,6 @@
 <div style='display:flex; align-items:center; gap: 10px;' align='left'>
   <img src="https://github.com/SamXop123/SamXop123/blob/main/Postman%20API%20Fundamentals%20Student%20Expert.png" width="100px" height="100px" />
    <img src="https://github.com/SamXop123/SamXop123/blob/main/5.png" width="100px" height="100px" />
-  <img src="https://github.com/SamXop123/SamXop123/blob/main/1.png" width="100px" height="100px" />
   <img src="https://github.com/SamXop123/SamXop123/blob/main/2.png" width="100px" height="100px" />
   <img src="https://github.com/SamXop123/SamXop123/blob/main/3.png" width="100px" height="100px" />
   <img src="https://github.com/SamXop123/SamXop123/blob/main/4.png" width="100px" height="100px" />
