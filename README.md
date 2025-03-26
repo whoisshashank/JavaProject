@@ -1,5 +1,5 @@
 
-<img align="right" alt ="Coding" width="350px" height="350px" src="https://github.com/N-PCs/Resources/blob/main/helloWorld.gif">
+<img align="right" alt ="Coding" width="300px" height="300px" src="https://github.com/N-PCs/Resources/blob/main/helloWorld.gif">
 
 <br>
 
@@ -41,14 +41,14 @@
 
 ![My Skills](https://skillicons.dev/icons?i=vscode,cpp,clion,py,pycharm,github,git,windows,anaconda,atom,figma,matlab,notion,postman)
 
-# 📊 GitHub Stats: 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=N-PCs&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=N-PCs&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=N-PCs&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-###
-![](https://github-readme-stats.vercel.app/api?username=N-PCs&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=N-PCs&theme=dark&hide_border=true)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=N-PCs&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=N-PCs&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=N-PCs&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/neel_pandey_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/neel-pandey-4b7469324) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/nplegend959) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/np_legend) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@n_p_cs) 
