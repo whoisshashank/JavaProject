@@ -42,6 +42,8 @@
 ![My Skills](https://skillicons.dev/icons?i=vscode,cpp,clion,py,pycharm,github,git,windows,anaconda,atom,figma,matlab,notion,postman)
 
 # 📊 GitHub Stats:
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
 ![](https://github-readme-stats.vercel.app/api?username=N-PCs&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=N-PCs&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=N-PCs&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
