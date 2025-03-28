@@ -34,7 +34,7 @@
 <p align="left">
 <a href="https://twitter.com/n_p_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n_p_cs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/neel-pandey-4b7469324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neel-pandey" height="30" width="40" /></a>
-<a href="https://instagram.com/__np__376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__np__376" height="30" width="40" /></a>
+<a href="https://instagram.com/neel_pandey_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__np__376" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
