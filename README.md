@@ -48,7 +48,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=N-PCs&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=N-PCs&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-PCs&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-PCs&radius=16&theme=dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
