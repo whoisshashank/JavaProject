@@ -39,7 +39,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=vscode,cpp,clion,py,pycharm,github,git,windows,anaconda,atom,figma,matlab,notion,postman)
+![My Skills](https://skillicons.dev/icons?i=vscode,cpp,clion,py,pycharm,github,git,windows,anaconda,atom,figma,matlab,notion,postman,html,css,js,premiere,ps,mysql)
 
 # 📊 GitHub Stats:
 <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
