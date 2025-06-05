@@ -17,6 +17,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Neel Pandey @N-PCs</h1>
+<img align="right" alt ="Coding" width="3000px" height="5px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGx0bzViaGJiM2Q1Y29veWViODhjMDVtaG83ejdldmh0Zm10bHJ4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bLdgTj2jCKe9Wf94Km/giphy.gif">
 <h3 align="center">A passionate coder , looking to expand my domain of interest.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-pcs&label=Profile%20views&color=0e75b6&style=flat" alt="n-pcs" /> </p>
