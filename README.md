@@ -21,6 +21,7 @@
 <h3 align="center">A passionate coder , looking to expand my domain of interest.</h3>
 <img align="right" alt ="Coding" width="3000px" height="5px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9mYTl0eWJncWs4Nmszb3BwMjQ5bXJxZnYwNGxhY3RybHdtemZrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otO6NFBIAFg2vPZuM/giphy.gif">
 
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-pcs&label=Profile%20views&color=0e75b6&style=flat" alt="n-pcs" /> </p>
 
 ## 🏆 GitHub Trophies
