@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](https://github.com/N-PCs/Resources/blob/main/github-header-image.png)
 <img align="right" alt ="Coding" width="275px" height="275x" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Ftbzl1dnN1YXZjNDU5M2JvbmhjeXVncGZjcGNpdG9tY2xjNXVzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 <br>
