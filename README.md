@@ -83,4 +83,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N-PCs/N-PCs/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/N-PCs/N-PCs/output/github-snake.svg" />
 </picture>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
+
 <img align="right" alt ="Coding" width="3000px" height="5px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9mYTl0eWJncWs4Nmszb3BwMjQ5bXJxZnYwNGxhY3RybHdtemZrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otO6NFBIAFg2vPZuM/giphy.gif">
