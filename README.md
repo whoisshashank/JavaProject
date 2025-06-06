@@ -47,9 +47,9 @@
 <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ![](https://github-readme-stats.vercel.app/api?username=N-PCs&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=N-PCs&theme=radical&hide_border=true)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N-PCs&theme=radical&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=N-PCs&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=N-PCs&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=N-PCs&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-PCs&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
