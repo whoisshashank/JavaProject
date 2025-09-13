@@ -10,14 +10,14 @@
 
 
 
-👋 Hi, I’m Neel Pandey @N-PCs
-👀 I’m interested in Computer Science and Electronics
-🌱 I’m currently learning Computer Science Engineering
-💞️ I’m looking to collaborate in real time collaborative project
-📫 How to reach me neelpandeyofficial@gmail.com
-🧑‍💻 LinkedIn  www.linkedin.com/in/neel-pandey-4b7469324
-😄 Pronouns: He/Him
-⚡ Fun fact: Always Curious!   :)
+-  👋 Hi, I’m Neel Pandey @N-PCs
+-  👀 I’m interested in Computer Science and Electronics
+-  🌱 I’m currently learning Computer Science Engineering
+-  💞️ I’m looking to collaborate in real time collaborative project
+-  📫 How to reach me neelpandeyofficial@gmail.com
+-  🧑‍💻 LinkedIn  www.linkedin.com/in/neel-pandey-4b7469324
+-  😄 Pronouns: He/Him
+-  ⚡ Fun fact: Always Curious!   :)
 
 </br>
 
