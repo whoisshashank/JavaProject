@@ -1,24 +1,13 @@
-<img align="right" alt ="Coding" width="3000px" height="5px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9mYTl0eWJncWs4Nmszb3BwMjQ5bXJxZnYwNGxhY3RybHdtemZrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otO6NFBIAFg2vPZuM/giphy.gif">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%2C%20I%27m%20Neel%20Pandey%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=A%20passionate%20developer%20from%20Goa,%20India&descSize=20&descAlignY=55&descAlign=50)
-
-<img align="right" alt ="Coding" width="275px" height="275x" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Ftbzl1dnN1YXZjNDU5M2JvbmhjeXVncGZjcGNpdG9tY2xjNXVzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
-
-<br>
-<p></p>
 
 
 
 
--  👋 Hi, I’m Neel Pandey @N-PCs
--  👀 I’m interested in Computer Science and Electronics
+
+-  👋 Hi, I’m Shashank Srivastava 
+-  👀 I’m interested in Computer Science and Electronics and MAchine Learning
 -  🌱 I’m currently learning Computer Science Engineering
 -  💞️ I’m looking to collaborate in real time collaborative project
--  📫 How to reach me neelpandeyofficial@gmail.com
--  🧑‍💻 LinkedIn  www.linkedin.com/in/neel-pandey-4b7469324
--  😄 Pronouns: He/Him
--  ⚡ Fun fact: Always Curious!   :)
-
+  
 </br>
 
 
